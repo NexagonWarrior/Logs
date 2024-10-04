@@ -1,0 +1,8 @@
+make[3]: *** No rule to make target 'debian/canonical-certs.pem', needed by 'certs/x509_certificate_list'.  Stop.
+make[3]: *** Waiting for unfinished jobs....
+make[2]: *** [scripts/Makefile.build:485: certs] Error 2
+make[2]: *** Waiting for unfinished jobs....
+  AR      kernel/built-in.a
+  CC [M]  kernel/kheaders.o
+make[1]: *** [/home/kulevskij/linux-6.11.1/Makefile:1926: .] Error 2
+make: *** [Makefile:224: __sub-make] Error 2
